@@ -1,5 +1,5 @@
 Lemonade Ingredients:  
 
-Lemons  
-Sugar  
-Water 
+1. Lemons
+2. Sugar
+3. Water 
