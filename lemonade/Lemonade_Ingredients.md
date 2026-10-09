@@ -1,7 +1,7 @@
-Lemonade Ingredients:
-Lemons
-Sugar
-WaterLemonade Ingredients
-Lemons
-Sugar
-Water
+Lemonade Ingredients:  
+Lemons  
+Sugar  
+WaterLemonade Ingredients  
+Lemons  
+Sugar  
+Water  
